@@ -1,4 +1,4 @@
-GLOW - Habit Tracker
+GLOW - Habit Tracker App
 Setup Instructions
 1. Clone the Repository
 -To get started, clone the project from GitHub to your local system.
